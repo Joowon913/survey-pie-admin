@@ -1,3 +1,4 @@
+import 'antd/es/style/reset.css';
 import './index.css';
 
 import React from 'react';
